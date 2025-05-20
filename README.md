@@ -1,4 +1,4 @@
-undetectable playwright using patchright:
+# undetectable playwright with patchright:
 playwright -> patchright (https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)
 
 ----------------------------------------------
